@@ -12,7 +12,7 @@ buildProperties {
 
 android {
     compileSdkVersion 26
-    buildToolsVersion BUILD_TOOLS_VERSION
+    buildToolsVersion '28.0.3'
     defaultConfig {
         applicationId "com.thirtydegreesray.openhub"
         minSdkVersion MIN_SDK_VERSION as int
